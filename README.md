@@ -2,6 +2,8 @@
    <a href="https://badges.pufler.dev/visits/qutaibah/qutaibah"> <img alt="hemant joshi github" src="https://badges.pufler.dev/visits/qutaibah/qutaibah"> </a>
 </p>
 
+[![Visits Badge](https://badges.pufler.dev/visits/qutaibah/qutaibah)](https://badges.pufler.dev)
+
 ### Hi there 👋
 
 
