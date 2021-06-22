@@ -1,9 +1,4 @@
-<p align="center">
-   <a href="https://badges.pufler.dev/visits/qutaibah/qutaibah"> <img alt="hemant joshi github" src="https://badges.pufler.dev/visits/qutaibah/qutaibah"> </a>
-</p>
-
 [![Visits Badge](https://badges.pufler.dev/visits/qutaibah/qutaibah)](https://badges.pufler.dev)
-![](https://estruyf-github.azurewebsites.net/api/VisitorHit?user=qutaibah&repo=github-visitors-badge&countColorcountColor&countColor=%237B1E7A)
 
 ### Hi there 👋
 
