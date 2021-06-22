@@ -1,4 +1,6 @@
-[![Visits Badge](https://badges.pufler.dev/visits/qutaibah/git-badges)](https://badges.pufler.dev)
+<p align="center">
+   <a href="https://badges.pufler.dev/visits/bornmay/bornmay"> <img alt="hemant joshi github" src="https://badges.pufler.dev/visits/bornmay/bornmay"> </a>
+</p>
 
 ### Hi there 👋
 
