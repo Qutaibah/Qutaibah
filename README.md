@@ -1,5 +1,5 @@
 <p align="center">
-   <a href="https://badges.pufler.dev/visits/bornmay/bornmay"> <img alt="hemant joshi github" src="https://badges.pufler.dev/visits/bornmay/bornmay"> </a>
+   <a href="https://badges.pufler.dev/visits/qutaibah/qutaibah"> <img alt="hemant joshi github" src="https://badges.pufler.dev/visits/qutaibah/qutaibah"> </a>
 </p>
 
 ### Hi there 👋
